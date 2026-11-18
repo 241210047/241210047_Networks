@@ -20,7 +20,7 @@
 | **Roll No.** | 241210047 |
 | **Subject** | Computer Networks Lab (CN Lab) |
 | **GitHub** | [@241210047](https://github.com/241210047) |
-| **Repository** | [241210047/241210047_CN](https://github.com/241210047/241210047_Networks) |
+| **Repository** | [241210047/241210047_Networks](https://github.com/241210047/241210047_Networks) |
 
 ---
 
