@@ -20,7 +20,7 @@
 | **Roll No.** | 241210047 |
 | **Subject** | Computer Networks Lab (CN Lab) |
 | **GitHub** | [@241210047](https://github.com/241210047) |
-| **Repository** | [241210047/241210047_CN](https://github.com/241210047/241210047_CN) |
+| **Repository** | [241210047/241210047_CN](https://github.com/241210047/241210047_Networks) |
 
 ---
 
@@ -98,7 +98,7 @@ Each experiment folder contains its **lab report (PDF)** and the **Cisco Packet 
 1. Install **Cisco Packet Tracer** (free with a Cisco Networking Academy account).
 2. Clone the repo, or download the `.pkt` file you need:
    ```bash
-   git clone https://github.com/241210047/241210047_CN.git
+   git clone https://github.com/241210047/241210047_Networks.git
    ```
 3. Open the `.pkt` file in Packet Tracer (`File → Open`, or double-click it).
 
@@ -149,6 +149,6 @@ python3 client.py Bob   "second client"         # terminal 3
 **Harshit Jhamb** · Roll No. **241210047**
 
 [![GitHub](https://img.shields.io/badge/GitHub-241210047-181717?logo=github)](https://github.com/241210047)
-[![Repo](https://img.shields.io/badge/Repo-241210047__CN-blue?logo=github)](https://github.com/241210047/241210047_CN)
+[![Repo](https://img.shields.io/badge/Repo-241210047__CN-blue?logo=github)](https://github.com/241210047/241210047_Networks)
 
 <sub>Made for the Computer Networks Lab. Please use these files for reference and learning.</sub>
