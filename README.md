@@ -4,7 +4,6 @@
 
 **A complete record of my Computer Networks (CN) laboratory experiments** — Cisco Packet Tracer simulations, lab reports, and Python socket programs.
 
-![Experiments](https://img.shields.io/badge/Experiments-13-blue)
 ![Tool](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
 ![Language](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 
